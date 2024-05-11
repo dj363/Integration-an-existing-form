@@ -2,7 +2,7 @@ import React from 'react';
 import { useForm } from 'react-hook-form';
 
 
-// The following component is an example of your existing Input Component
+
 // eslint-disable-next-line react/prop-types
 const Input = ({ label, register, required }) => (
   <>
